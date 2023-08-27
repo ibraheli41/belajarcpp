@@ -1,8 +1,3 @@
-/* 
-
 KONVERSI SUHU VIA TERMINAL 
-Cara bikin hidup tambah ribet
-Iseng-iseng by Ibe Ibrahim using C++
+Untuk pembelajaran dan disertai dengan penjelasan.
 2023, 28 August.
-
-*/
