@@ -26,16 +26,12 @@ class Celcius {
             return a + 273.15;
         }
         int CtoF(int a) {
-            double sembilan = 9;
-            double lima = 5;
             double pembagian1 = sembilan / lima;
             double perkalian = pembagian1 * a + 32;
             return perkalian;
         }
         int CtoR(int a) {
-            double empat = 4;
-            double lima2 = 5;
-            double pembagian2 = empat / lima2;
+            double pembagian2 = empat / lima;
             double perkalian2 = pembagian2 * a;
             return perkalian2;
         }
