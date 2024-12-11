@@ -11,7 +11,6 @@ int nilaiUser1, nilaiUser2, nilaiUser3, nilaiUser4, nilaiUser5;
 int inputUser, jumlahNilai, rataRata;
 char gradeA = 'A',gradeB = 'B', gradeC = 'C', gradeD = 'D', gradeE = 'E';
 
-
 void garisTampilan(){           // FUNGSI UNTUK TAMPILAN GARIS
     cout << "======================================================" << endl;
 }
