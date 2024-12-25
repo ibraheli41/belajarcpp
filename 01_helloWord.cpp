@@ -11,6 +11,7 @@ int main()
 {
     iniGaris();
     cout << "Hello World\n";
+    cout << "Ini dari akbar\n";
     iniGaris();
     return 0;
 }
